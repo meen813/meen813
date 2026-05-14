@@ -27,7 +27,6 @@ I design and deliver end-to-end applications, from system architecture and API d
 
 **Oddyssey** — Real-time odds platform with idempotent event-driven settlement. NestJS backend, Next.js frontend, Socket.io, Docker. _Repositories private during development._
 
-**Hashtag Generator** — Auto-tagging app using AWS Rekognition + Lambda + API Gateway + S3. → [autoHashtagGenerator](https://github.com/meen813/autoHashtagGenerator)
 
 ---
 
